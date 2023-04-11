@@ -1,0 +1,2 @@
+# myriadRaceNotification-discord.py
+誰でも導入ができるDiscordBotのソースコード置き場です。
